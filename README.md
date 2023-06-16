@@ -16,7 +16,7 @@ I'm a passionate software engineer with expertise in backend development and dat
 
 You can reach me through the following channels:
 
-- Email: kamal.berria@gmail.com
+- Email: kamal.berriga@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kamal-berriga-942131115
 - Personal Website/Portfolio: https://www.upwork.com/freelancers/kamalberriga
 
