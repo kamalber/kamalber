@@ -6,10 +6,10 @@ I'm a passionate software engineer with expertise in backend development and dat
 
 - Programming Languages: Node.js, TypeScript, Python
 - Backend Development: RESTful APIs, microservices architecture, database design
-- Data Engineering: ETL pipelines, data processing, data modeling, data warehousing
+- Data Engineering: ETL pipelines, data processing, data modeling,data warehousing
 - Cloud Platforms: Amazon Web Services (AWS), specifically experience with ECS, EC2, S3, Lambda, and DynamoDB
 - DevOps: Continuous Integration/Deployment (CI/CD), containerization (Docker), serverless architecture
-- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- Databases: SQL (MySQL , PostgreSQL), NoSQL (MongoDB)
 - Version Control: Git, GitHub
 
 ## Contact Me
