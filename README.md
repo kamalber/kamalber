@@ -18,6 +18,6 @@ You can reach me through the following channels:
 
 - Email: kamal.berriga@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kamal-berriga-942131115
-- Personal Website/Portfolio: https://www.upwork.com/freelancers/kamalberriga
+- Personal Website/Portfolio: https://www.kamalberriga.com
 
 I'm always open to exciting opportunities, collaborations, and interesting conversations. Feel free to reach out if you have any questions or would like to connect!
